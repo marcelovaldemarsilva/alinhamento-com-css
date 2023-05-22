@@ -1,0 +1,55 @@
+.wrapper1{
+    max-width: 200px;
+    height: 200px;
+    background: #ebebeb;
+}
+.btn1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: orange;
+    color: white;
+    border: none;
+    padding: 10px;
+
+}
+.wrapper2{
+    position: relative;
+    max-width: 200px;
+
+    height: 200px;
+    background-color: aquamarine;
+}
+.square{
+    max-width: 200px;
+    height: 25px;
+    background-color: orange;
+    color: white;
+    text-align: center;
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    margin: auto;
+    padding: 10px;
+
+    
+}
+
+.wrapper3{
+    display: flex;
+    max-width: 200px;
+
+    height: 200px;
+    background-color: aquamarine;
+    justify-content: center;
+    align-items: center;
+}
+.btn3{
+    background-color: orange;
+    color: white;
+    border: none;
+    padding: 10px;
+
+}
